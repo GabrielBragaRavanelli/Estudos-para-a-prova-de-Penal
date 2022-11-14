@@ -53,5 +53,10 @@ mãos, pois há uma ordem legalmente prevista para o pagamento dos débitos faze
 todos aqueles que tenham concorrido de qualquer modo para o crime, mesmo em se tratando de pessoas alheias aos quadros
 públicos
 
+- Peculato de uso: Diverge a doutrina: Uma primeira corrente entende que o agente se apropriou, desviou ou subtraiu não exclui
+o peculato doloso. Por outro lado, há quem admita o peculato de uso, considerando-o fato irrelevante. Argumentam ser é atípico o
+fato relacionado ao uso momentâneo de coisa infungível, sem a intenção de incorporá-la ao patrimônio pessoal ou de terceiro,
+seguido da sua integral restituição a quem de direito.
+
 
 
