@@ -39,6 +39,10 @@ Peculato
 - Se o bem for infungível e o FP devolver?
 Não configura o crime de peculato (usar carro da prefeitura para ir a uma festa). O caso é atípico, pois não há a intenção deanimus de dono. O crime poderá ser outro – improbidade administrativa.
 
+- Peculato furto (peculato impróprio)
+  - É um crime de furto praticado por FP. Ausente a condição de funcionário público, desaparece o peculato, mas subsiste intacto o
+delito de furto (art. 155 do CP).
+
 
 
 
