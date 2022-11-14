@@ -27,3 +27,18 @@ Concussão
 - Concussão e Corrupção passiva: A diferença entre os 2 é que, a  corrupçâo passiva possui uma pena maior, enquanto a concussão apresenta uma pena mais leve
 - Concussao e concurso de pessoas: Apresenta a possibilidade do concurso de pessoa, na qual o coautor tambem é punido junto com o autor em duas hipoteses: A 1 é que o funcionario publico é considerado elemento do tipo penal e, a 2 é no caput da concussão que, possibilita a pratica do crime diretamente e indiretamente.
 - Concussão e jurados: Pode acontecer, caso os jurados exijam vantagem indevida para o julgamento futuramente.
+
+Peculato
+- Somente estará caracterizado o crime de peculato quando o sujeito comete apropriação, o desvio ou a subtração em razão das facilidades proporcionadas pelo seu cargo.
+- Peculato proprio
+  - Peculato de apropriação e desvio
+- Peuclato improprio
+  - Peculato Furto e culposo
+- Apropriar-se de coisa fungível e depois restituída pelo FP?
+  - Pouco importa se o agente tem ou não a intenção de restituir. O FP que recebe dinheiro não passa de um longa manus da Adm.Pública, jamais poderá desviar essa finalidade.
+-Se o bem for infungível e o FP devolver?
+Não configura o crime de peculato (usar carro da prefeitura para ir a uma festa). O caso é atípico, pois não há a intenção deanimus de dono. O crime poderá ser outro – improbidade administrativa.
+
+
+
+
