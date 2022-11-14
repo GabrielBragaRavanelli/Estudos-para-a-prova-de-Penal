@@ -49,6 +49,9 @@ em razão do cargo, para satisfazer pretensão pessoal, ainda que legítima, com
   - Ainda que exista uma dívida da Administração Pública para com seu funcionário, este não pode fazer justiça pelas próprias
 mãos, pois há uma ordem legalmente prevista para o pagamento dos débitos fazendários.
 
+- Peculato e concurso de pessoas: A condição de funcionário público é elementar do peculato, razão pela qual comunica-se a
+todos aqueles que tenham concorrido de qualquer modo para o crime, mesmo em se tratando de pessoas alheias aos quadros
+públicos
 
 
 
