@@ -36,7 +36,7 @@ Peculato
   - Peculato Furto e culposo
 - Apropriar-se de coisa fungível e depois restituída pelo FP?
   - Pouco importa se o agente tem ou não a intenção de restituir. O FP que recebe dinheiro não passa de um longa manus da Adm.Pública, jamais poderá desviar essa finalidade.
--Se o bem for infungível e o FP devolver?
+- Se o bem for infungível e o FP devolver?
 Não configura o crime de peculato (usar carro da prefeitura para ir a uma festa). O caso é atípico, pois não há a intenção deanimus de dono. O crime poderá ser outro – improbidade administrativa.
 
 
