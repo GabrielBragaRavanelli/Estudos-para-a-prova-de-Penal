@@ -43,6 +43,12 @@ Não configura o crime de peculato (usar carro da prefeitura para ir a uma festa
   - É um crime de furto praticado por FP. Ausente a condição de funcionário público, desaparece o peculato, mas subsiste intacto o
 delito de furto (art. 155 do CP).
 
+- Peculato e apropriação do bem para satisfação de interesse pessoal: O funcionário público que se apropria, ou em proveito
+próprio ou de terceiro, desvia ou subtrai dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse
+em razão do cargo, para satisfazer pretensão pessoal, ainda que legítima, comete peculato.
+  - Ainda que exista uma dívida da Administração Pública para com seu funcionário, este não pode fazer justiça pelas próprias
+mãos, pois há uma ordem legalmente prevista para o pagamento dos débitos fazendários.
+
 
 
 
