@@ -15,7 +15,22 @@ Corruçâo Passiva
   - Na corrupção passiva própria, o funcionário público negocia um ato ilícito (exemplo: policial que deixa demultar motorista surpreendido em excesso de velocidade em troca do recebimento de determinada quantia em dinheiro).
 - Corrupção passiva impropria
   - Na corrupção passiva imprópria, o ato sobre o qual recai a transação é lícito (ex: Delegado de Polícia que solicita propina davítima de um crime para agilizar o trâmite de um inquérito policial sob sua presidência).
-- Corrupção passiva antecedente e subsequente – O que difere é o momento da negociação da vantagem indevida. Corrupçãopassiva antecedente é aquela em que a vantagem indevida é entregue ou prometida ao funcionário público em vista de uma açãoou omissão futura (exemplo: um oficial de justiça recebe dinheiro do réu para não citá-lo). Na corrupção passiva subsequente, arecompensa relaciona-se a um comportamento pretérito (ex: Investigador que ganha um relógio de um investigado pelo fato de propositadamente não tê-lo investigado criminalmente no passado)
+- Corrupção passiva antecedente e subsequente – O que difere é o momento da negociação da vantagem indevida. Corrupção passiva antecedente é aquela em que a vantagem indevida é entregue ou prometida ao funcionário público em vista de uma ação ou omissão futura (exemplo: um oficial de justiça recebe dinheiro do réu para não citá-lo). Na corrupção passiva subsequente, a recompensa relaciona-se a um comportamento pretérito (ex: Investigador que ganha um relógio de um investigado pelo fato de propositadamente não tê-lo investigado criminalmente no passado)
+-Corrupção passiva e corrupção ativa – dependência e independência: é possível corrupção passiva, independentemente dacorrupção ativa, exclusivamente em relação ao verbo solicitar, pois nesse caso a conduta inicial é do funcionário público. Nos demais núcleos a conduta inicial é do particular: ele “oferece” a vantagem indevida e o funcionário público a “recebe”, ou entãoele “promete” vantagem indevida e o intraneus a “aceita”. Nesses casos, a corrupção passiva pressupõe a corrupção ativa.
+-Conflito de crimes:
+a) não há corrupção passiva se o ato não é da atribuição do funcionário público que solicitou, recebeu ou aceitou a promessa devantagem indevida, embora tenha ele assim agido a pretexto de influir em ato praticado por funcionário público no exercício dafunção. Nesse caso, estará caracterizado o crime de tráfico de influência (art. 332 do CP)
+b) não há corrupção passiva, mas exploração de prestígio (art. 357 do CP), quando uma pessoa qualquer, inclusive umfuncionário público, solicita ou recebe dinheiro ou qualquer outra utilidade, a pretexto de influir em juiz, jurado, órgão doMinistério Público, funcionário de justiça, perito, tradutor, intérprete ou testemunha
+c) haverá estelionato (art. 171, CP), na hipótese em que o agente (FP ou não) solicita ou recebe vantagem ilícita para influir ouobter de um funcionário público o benefício prometido a alguém, sem ter meios para fazê-lo.
+– Corrupção passiva, doações de pequena monta e datas festivas: A doutrina é uníssona ao afirmar que não se verifica o
+crime de corrupção passiva nas gratificações de pequena monta, especialmente nos presentes ofertados em datas festivas.
+Ex. aceitar garrafa de vinho, ovos de pascoa, chocolates, doações de boas festas, etc..
+   - Para alguns penalistas, o fato é atípico em decorrência do princípio da insignificância. Não é bem isso, pois é pacífico no âmbito
+jurisprudencial, especialmente no STJ, que não se aplica o princípio da insignificância nos crimes contra a Administração
+Pública.
+   - A questão deve ser analisada por um ângulo diverso, qual seja, a ausência de dolo – nas gratificações de pequena monta e nas
+oferendas em datas festivas inexiste, da parte do funcionário público, a intenção de aceitar alguma vantagem como retribuição
+de alguma ação ou omissão envolvendo ato de ofício já praticado ou a praticar em momento futuro. Estará caracterizado o
+crime em comento se o funcionário público receber a doação com interesses espúrios
 
 Condescendência Criminosa
 - Sem Tentativa
