@@ -8,6 +8,14 @@ Corrupção Ativa
 - Corrupção Ativa e o "jeitinho": Caso o indivíduo ofereça para o funcionario publico dar um 'jeitinho", nâo será caracterizado Corrupção ativa, a não ser que, seja oferecida vantagem indevida.
 
 Corruçâo Passiva
+- Cirme mutiplo
+- Apenas dolo
+- Possui tentativa
+- Corrupção passiva própria:
+  - Na corrupção passiva própria, o funcionário público negocia um ato ilícito (exemplo: policial que deixa demultar motorista surpreendido em excesso de velocidade em troca do recebimento de determinada quantia em dinheiro).
+- Corrupção passiva impropria
+  - Na corrupção passiva imprópria, o ato sobre o qual recai a transação é lícito (ex: Delegado de Polícia que solicita propina davítima de um crime para agilizar o trâmite de um inquérito policial sob sua presidência).
+- Corrupção passiva antecedente e subsequente – O que difere é o momento da negociação da vantagem indevida. Corrupçãopassiva antecedente é aquela em que a vantagem indevida é entregue ou prometida ao funcionário público em vista de uma açãoou omissão futura (exemplo: um oficial de justiça recebe dinheiro do réu para não citá-lo). Na corrupção passiva subsequente, arecompensa relaciona-se a um comportamento pretérito (ex: Investigador que ganha um relógio de um investigado pelo fato de propositadamente não tê-lo investigado criminalmente no passado)
 
 Condescendência Criminosa
 - Sem Tentativa
