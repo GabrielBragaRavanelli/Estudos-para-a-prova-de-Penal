@@ -83,6 +83,10 @@ seguido da sua integral restituição a quem de direito.
 
 Falsidade ideologica 
   - O documento em si é verdadedeiro, porém o conteudo que esta dentro é falso
+
 Falsidade e atestado Médico
 - Atestado Médico falso para a pratica de outro crime: Caso medico libere um atestado falso sabendo que ele servira para a pratica de um outro crime, o medico respondera por partice do crime mais grave cometido.
+
+Falsidade de documento particular
+- documento particular é todo aquele que não é público
 
