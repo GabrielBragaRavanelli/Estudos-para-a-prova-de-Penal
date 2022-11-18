@@ -81,5 +81,8 @@ o peculato doloso. Por outro lado, há quem admita o peculato de uso, consideran
 fato relacionado ao uso momentâneo de coisa infungível, sem a intenção de incorporá-la ao patrimônio pessoal ou de terceiro,
 seguido da sua integral restituição a quem de direito.
 
-
+Falsidade ideologica 
+  - O documento em si é verdadedeiro, porém o conteudo que esta dentro é falso
+Falsidade e atestado Médico
+- Atestado Médico falso para a pratica de outro crime: Caso medico libere um atestado falso sabendo que ele servira para a pratica de um outro crime, o medico respondera por partice do crime mais grave cometido.
 
