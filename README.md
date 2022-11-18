@@ -94,3 +94,8 @@ Falsidade de documento Público
 - Diferença entre alteração e falsificação do documento: Na alteração, o documento é verdadeiro, porém o criminoso faz alguma modificação. Já na falsificação, o documento ja nasce falso.
 - Se o criminoso por meio desse documento falso, cometer um crime engando para adquirir vantagem ilicita, responderá por crime de Falsidade de documento Público mais estelionato
 - Caso o indivíduo não modifique o domento e apenas rasura alguma palavra, numero ele respondera por supressão de documento e não falsidade de documento.
+
+Falsa  identidade
+- Diferença entre falsa identidade e documento falso
+  - Se o indivíduo entregar uma falsa identidade, sem docfumento falso ou alterado, configura falsa identidade
+  - Agora, caso ele entregue os dois, será configurado documento falso por causa da suasubsiariedade.
