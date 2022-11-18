@@ -90,3 +90,6 @@ Falsidade e atestado Médico
 Falsidade de documento particular
 - documento particular é todo aquele que não é público
 
+Falsidade de documento Público
+- Diferença entre alteração e falsificação do documento: Na alteração, o documento é verdadeiro, porém o criminoso faz alguma modificação. Já na falsificação, o documento ja nasce falso.
+
